@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text.RegularExpressions;
 
 namespace Assignment3
 {
@@ -44,5 +45,16 @@ namespace Assignment3
             
             foreach (var VARIABLE in filtredX) Console.WriteLine(VARIABLE);
         }
+        public static bool IsSecure(this Uri uri)
+        {
+            return uri.Scheme.Equals("https");
+        }
+        
+        public static int WordCount(this String s)
+        {
+            var words = Regex.Split(s, @"\P{L}+");
+            return words.Length;
+        }
     }
+
 }

@@ -6,7 +6,13 @@ namespace Assignment3
     {
         static void Main(string[] args)
         {
-            Extensions.Flatten();
+            Uri u = new Uri("https://docs.microsoft.com/en-us/dotnet/api/system.uri?view=net-5.0");
+            Console.WriteLine("is secure?: " + u.IsSecure());
+
+            string s = "Hej med dig. Hvad hedder du";
+            Console.WriteLine(s.WordCount());
+            
+            OurDelegates.ReverseString(s);
         }
     }
 }
