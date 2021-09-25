@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/malitheoret/Desktop/Assignment3/Assignment3.Tests/Assignment3.Tests.csproj": {}
+    "/Users/malitheoret/Desktop/Alle mapper/ITU/3.semester/Assignment3/Assignment3.Tests/Assignment3.Tests.csproj": {}
   },
   "projects": {
-    "/Users/malitheoret/Desktop/Assignment3/Assignment3.Tests/Assignment3.Tests.csproj": {
+    "/Users/malitheoret/Desktop/Alle mapper/ITU/3.semester/Assignment3/Assignment3.Tests/Assignment3.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/malitheoret/Desktop/Assignment3/Assignment3.Tests/Assignment3.Tests.csproj",
+        "projectUniqueName": "/Users/malitheoret/Desktop/Alle mapper/ITU/3.semester/Assignment3/Assignment3.Tests/Assignment3.Tests.csproj",
         "projectName": "Assignment3.Tests",
-        "projectPath": "/Users/malitheoret/Desktop/Assignment3/Assignment3.Tests/Assignment3.Tests.csproj",
+        "projectPath": "/Users/malitheoret/Desktop/Alle mapper/ITU/3.semester/Assignment3/Assignment3.Tests/Assignment3.Tests.csproj",
         "packagesPath": "/Users/malitheoret/.nuget/packages/",
-        "outputPath": "/Users/malitheoret/Desktop/Assignment3/Assignment3.Tests/obj/",
+        "outputPath": "/Users/malitheoret/Desktop/Alle mapper/ITU/3.semester/Assignment3/Assignment3.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/malitheoret/.nuget/NuGet/NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/malitheoret/Desktop/Assignment3/Assignment3/Assignment3.csproj",
+      "projectUniqueName": "/Users/malitheoret/Desktop/Alle mapper/ITU/3.semester/Assignment3/Assignment3/Assignment3.csproj",
       "projectName": "Assignment3",
-      "projectPath": "/Users/malitheoret/Desktop/Assignment3/Assignment3/Assignment3.csproj",
+      "projectPath": "/Users/malitheoret/Desktop/Alle mapper/ITU/3.semester/Assignment3/Assignment3/Assignment3.csproj",
       "packagesPath": "/Users/malitheoret/.nuget/packages/",
-      "outputPath": "/Users/malitheoret/Desktop/Assignment3/Assignment3/obj/",
+      "outputPath": "/Users/malitheoret/Desktop/Alle mapper/ITU/3.semester/Assignment3/Assignment3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/malitheoret/.nuget/NuGet/NuGet.Config"

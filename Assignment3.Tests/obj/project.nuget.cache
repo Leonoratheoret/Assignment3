@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0XNyPFJnnoa2COToimBAg4dNtustBSGPHbKquwj/QFsTZw4LrUiPWXduIbdE8Y039vu6PRnchhh1BUZtb2J7Vg==",
+  "dgSpecHash": "XrcDkkmSjoTfVMv46VXly4nOWAb2mfN2O6oyAIbBDrOwg6cJSUVoWhj7HBdmKXyuJ4oblVqTyb3qT3xcHNBkNQ==",
   "success": true,
-  "projectFilePath": "/Users/malitheoret/Desktop/Assignment3/Assignment3.Tests/Assignment3.Tests.csproj",
+  "projectFilePath": "/Users/malitheoret/Desktop/Alle mapper/ITU/3.semester/Assignment3/Assignment3.Tests/Assignment3.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/malitheoret/.nuget/packages/coverlet.collector/3.0.2/coverlet.collector.3.0.2.nupkg.sha512",
     "/Users/malitheoret/.nuget/packages/microsoft.codecoverage/16.9.4/microsoft.codecoverage.16.9.4.nupkg.sha512",
